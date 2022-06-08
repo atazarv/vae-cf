@@ -7,4 +7,4 @@ We modified the original code to adjust, clean and preprocess a new publicly ava
 
 In this notebook, we show a complete self-contained example of training a variational autoencoder (as well as a denoising autoencoder) with multinomial likelihood (described in the original paper).
 
-This was done as the course project for the course "[Deep Generative Models, Computer Science, UC Irvine, Spring 2019]".
+This was done as the course project for the course "Deep Generative Models, Computer Science, UC Irvine, Spring 2019".
